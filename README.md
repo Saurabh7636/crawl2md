@@ -29,8 +29,8 @@ Features: 🚀
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Saurabh7636/crawl2md
+cd crawl2md
 ```
 
 2. Create and activate a virtual environment (recommended):
